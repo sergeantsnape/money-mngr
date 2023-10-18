@@ -35,7 +35,7 @@ class _CupertinoHomePageState extends State<CupertinoHomePage> {
   Widget build(BuildContext context) {
     return const CupertinoPageScaffold(
       navigationBar: CupertinoNavigationBar(
-        middle: Text("Boooiiiiiii"),
+        middle: Text("Hello"),
       ), child: Center(
         child: Text("BOOOOIIIIIII(2)"),
       ),
